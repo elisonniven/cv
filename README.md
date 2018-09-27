@@ -3,7 +3,7 @@ elison _dot_ niven _at_ gmail _dot_ com
 
 **Software Engineer | C | Linux**
 
-_CV Last Updated : JULY 2018.\
+_CV Last Updated : SEPTEMBER 2018.\
 Looking for opportunities in Ahmedabad / Remote location jobs._
 
 ## Objective
