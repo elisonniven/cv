@@ -3,14 +3,14 @@ elison _dot_ niven _at_ gmail _dot_ com
 
 **Software Engineer | C | Linux**
 
-_CV Last Updated : SEPTEMBER 2018.\
+_CV Last Updated : MAY 2019.\
 Looking for opportunities in Ahmedabad / Remote location jobs._
 
 ## Objective
 To build great products, solve challenging problems and provide solutions.
 
 ## Skills
-* Software developer with ~ 11 years of experience in C, GNU/Linux, Shell Scripting, Networking, Communication, Cryptography, Security and Embedded Portable systems.
+* Software developer with ~ 12 years of experience in C, GNU/Linux, Shell Scripting, Networking, Communication, Cryptography, Security and Embedded Portable systems.
 * Quick and open to learn any new technology.
 * Experience of working with C,C++, systemd, GNU core and debug utilities, OpenSSL, IPsec VPN and Device Drivers.
 * Excellent verbal and written business communication skills.
@@ -22,17 +22,22 @@ _NOVEMBER 2011 - PRESENT, AHMEDABAD_
 
 #### Roles and Responsibilities
 * Architect and lead developer of the Base Systems Team.
-* Manage a team of 6~8 engineers consisting of both Developers and QA engineers.
+* Develop and maintain the core OS components.
+* Manage a team of ~10 engineers consisting of both Developers and QA engineers.
 * Responsible for planning, delivery, bugfixes and responding to customer issues.
 
 #### Projects
 * Design and develop next-gen Firewall OS architecture : System Installation, Initialization, Orchestration, Service Management, Firmware Management and Security Review.
+* Linux kernel and bootloader porting, maintenance.
 * Vulnerability analysis and response.
 * Threat modeling and preparations for Certifications.
 * Design and review OEM support.
 * Maintain and improve legacy build system and own migration to new build system.
 * Certificate management framework.
 * Client and Server for secure download and installation of firmware and signatures/patterns.
+* Licensing framework.
+* Telemetry framework.
+* Signing and verification of trusted artifacts.
 
 #### Previous Projects
 * Maintain IPsec IKE daemon, configuration, middleware, failover and failback mechanisms and resolve IPsec field reported issues.
